@@ -61,11 +61,6 @@ font-weight:bold;
         transition: all 350ms ease;
     }
 
-.icons:hover {
-    opacity: 0.5;
-    cursor: pointer;
-}
-
 div.gallery {
     border: 1px solid #ccc;
 }
@@ -183,8 +178,8 @@ div.desc {
         width: 49.99999%;
         margin: 6px 0;
     }
-    .icons:hover {
-        display:none;
+    .iconim:hover {
+        display: none!important;
     }
 }
 
@@ -215,8 +210,8 @@ div.desc {
     .centerImage {
         width: 90%;
     }
-    .icons:hover {
-        display: none;
+    .iconim:hover {
+        display: none!important;
     }
 }
 
