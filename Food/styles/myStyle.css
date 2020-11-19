@@ -179,7 +179,7 @@ div.desc {
         margin: 6px 0;
     }
     .iconim:hover {
-        display: none!important;
+        transform: none!important;
     }
 }
 
@@ -211,7 +211,7 @@ div.desc {
         width: 90%;
     }
     .iconim:hover {
-        display: none!important;
+        transform: none !important;
     }
 }
 
